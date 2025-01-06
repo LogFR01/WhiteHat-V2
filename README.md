@@ -1,8 +1,8 @@
-# WhiteHat-V2
+# WhiteHat-V2 🎩
 MultiTool linux made in python3 with PySide6 (Qt)
 ----------------------------------------------------
 
-# Installation (English)
+# Installation (English) 🇬🇧
 1. If you wanna clone to install, then do `git clone https://github.com/LogFR01/WhiteHat-V2`
 
 2. Install the requirements with `python3 -m pip install -r requirements`
@@ -13,7 +13,7 @@ MultiTool linux made in python3 with PySide6 (Qt)
 
 4. Finally, you can run the tool with `python3 Log.py` or juste run the Luncher named by "WhiteHat Master"
 
-# Installation (Français)
+# Installation (Français) 🇫🇷
 1. Si vous voulez cloner le tool, faites `git clone https://github.com/LogFR01/WhiteHat-V2`
 
 2. Installez les modules requis avec `python3 -m pip install -r requirements`
@@ -29,3 +29,7 @@ A DES FINS ÉDUCATIVES SEULEMENT | EDUCATIONNAL PURPOSES ONLY
 
 # Thanks ! | Merci !
 (Ne créditez pas ce tool a votre nom svp, Do not credit this tool as yours please.)
+
+
+# Preview
+![WhiteHatMaster](https://github.com/user-attachments/assets/fee00d0c-29e2-4efc-b726-e2332c3a163b)
